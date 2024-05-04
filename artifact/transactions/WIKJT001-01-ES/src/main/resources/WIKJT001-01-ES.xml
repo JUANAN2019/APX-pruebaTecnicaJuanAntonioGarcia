@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<transaction xmlns="http://www.w3schools.com" transactionName="WIKJT001" application="WIKJ" version="01" country="ES" language="ES">
+	<paramsIn/>
+	<paramsOut/>
+	<description>transaccion_customer</description>
+</transaction>
