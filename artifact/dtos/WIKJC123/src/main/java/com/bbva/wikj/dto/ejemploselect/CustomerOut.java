@@ -2,9 +2,7 @@ package com.bbva.wikj.dto.ejemploselect;
 
 import java.io.Serializable;
 
-/**
- * The ExampleDTO class...
- */
+
 public class CustomerOut implements Serializable  {
 	private String id;
 
