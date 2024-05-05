@@ -6,9 +6,7 @@ import org.apache.commons.lang3.builder.EqualsBuilder;
 import org.apache.commons.lang3.builder.HashCodeBuilder;
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
-/**
- * The ExampleDTO class...
- */
+
 public class CustomerIn implements Serializable  {
 	private String id;
 
